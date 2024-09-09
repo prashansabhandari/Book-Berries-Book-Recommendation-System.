@@ -5,5 +5,4 @@ A Book Recommendation Website which recommends currently logged in User based on
 * MySQL
 * Nearest Neighbour Algorithm
 * XAMPP
-* HTML/CSS/PHP
-## CITATION 
+* HTML/CSS/PHP.
